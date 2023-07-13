@@ -1,9 +1,9 @@
 #include <stdio.h>
-
-#define PROGRAMMING "Programming"
-
-int main() {
-  printf("Programming is like building a multilingual puzzle\n");
-  return 0;
+/**
+ * main - A program that prints a line with puts function
+ * Return: 0 (Success)
+ */
+int main(void) {
+  printf("\"Programming is like building a multilingual puzzle");
+  return (0);
 }
-
